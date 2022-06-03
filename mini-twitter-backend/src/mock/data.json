@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Victor",
+      "age": 22,
+      "city": "Picos"
+    },
+  
+    {
+      "id": 2,
+      "name": "Karine",
+      "age": 21,
+      "city": "Picos"
+    },
+    
+    {
+      "id": 3,
+      "name": "Gabriel",
+      "age": 24,
+      "city": "Sertão santana"
+    }
+  ]
+}
